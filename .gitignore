@@ -1,0 +1,5 @@
+/DuckDB.session.sql
+/metobs
+/metobs_data
+/transform_and_load.sql
+/x.json
